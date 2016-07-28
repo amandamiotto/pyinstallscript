@@ -1,0 +1,6 @@
+/c/python34/Scripts/pip.exe install numpy
+/c/python34/Scripts/pip.exe install time
+/c/python34/Scripts/pip.exe install matplotlib
+/c/python34/Scripts/pip.exe install glob
+/c/python34/Scripts/pip.exe install errors_01
+/c/python34/Scripts/pip.exe install sys
