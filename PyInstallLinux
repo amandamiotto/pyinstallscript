@@ -1,0 +1,7 @@
+python --version
+pip install numpy
+pip install time
+pip install matplotlib
+pip install glob
+pip install errors_01
+pip install sys
