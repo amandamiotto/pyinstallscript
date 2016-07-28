@@ -1,3 +1,5 @@
+PATH=$PATH:/c/Python34/
+python --version
 /c/python34/Scripts/pip.exe install numpy
 /c/python34/Scripts/pip.exe install time
 /c/python34/Scripts/pip.exe install matplotlib
